@@ -15,10 +15,10 @@
 ## Интрументы  
 1. [Python](https://www.python.org/) версии '3.9.*'  
 2. Python библиотеки(Присутствует установщик - installDLLs.bat):  
-	1. matplotlib 3.5.1
-	2. pandas 1.3.0
-	3. numpy 1.19.5
-	4. IPython 7.29.0  
+	* matplotlib 3.5.1
+	* pandas 1.3.0
+	* numpy 1.19.5
+	* IPython 7.29.0  
 3. [Jupyter Notebook](https://jupyter.org/install); В процессе установки могут возникнуть ошибки, гугл в помощь.  
 ## Команда  
 [Alximikl2](https://github.com/alximikl2) - Разработчик, [Sparky324](https://github.com/Sparky324) - Тестировщик.
